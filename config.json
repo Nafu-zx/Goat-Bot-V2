@@ -15,20 +15,20 @@
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      ""
+      "61583126910569"
     ]
   },
   "adminBot": [
     "61583126910569",
-    ""
+    "61583126910569"
   ],
   "DEV": [
     "61583126910569",
-    ""
+    "61583126910569"
   ],
   "GOD": [
     "61583126910569",
-    ""
+    "61583126910569"
   ],
   "whiteListMode": {
     "enable": false,
@@ -39,7 +39,7 @@
   "prefix": "/",
   "autoSetNickname": true,
   "authorFB": "https://www.facebook.com/profile.php?id=61583126910569",
-  "authorName": "61583126910569",
+  "authorName": "Nafi",
   "authorEmail": "secret",
   "database": {
     "type": "sqlite",
