@@ -23,11 +23,11 @@
     ""
   ],
   "DEV": [
-    "100071880593545",
+    "61583126910569",
     ""
   ],
   "GOD": [
-    "100071880593545",
+    "61583126910569",
     ""
   ],
   "whiteListMode": {
@@ -35,11 +35,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Goat-Bot-V2",
+  "nickNameBot": "Amih chur",
   "prefix": "/",
   "autoSetNickname": true,
-  "authorFB": "https://www.facebook.com/profile.php?id=100071880593545",
-  "authorName": "AminulSardar",
+  "authorFB": "https://www.facebook.com/profile.php?id=61583126910569",
+  "authorName": "61583126910569",
   "authorEmail": "secret",
   "database": {
     "type": "sqlite",
